@@ -1,4 +1,5 @@
 🌍 Country Explorer
+
 Welcome to Country Explorer, a simple yet powerful web app that allows you to explore different countries across the world. You can search for countries by name, filter them by region, and view detailed information like population, capital, languages, currencies, and more. The app even lets you toggle between light and dark modes to suit your preference. Cool, right?
 
 🛠️ Features
