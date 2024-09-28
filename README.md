@@ -16,12 +16,15 @@ View Country Details: Click on a country card, and you'll be taken to a page wit
 Dark Mode: Click the 'Dark Mode' button to switch between dark and light themes.
 
 🧑‍💻 How to Use It
+
 Step 1: Clone the Repository
 bash
 Copy code
 git clone https://github.com/your-username/country-explorer.git
+
 Step 2: Open the Project
 After cloning, open the index.html file in your browser. No fancy setup required—just pure HTML, CSS, and JavaScript!
+
 Step 3: Explore Countries
 Search: Type the name of a country in the search bar.
 Filter by Region: Use the dropdown menu to filter countries by region.
